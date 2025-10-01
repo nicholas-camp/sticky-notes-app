@@ -1,0 +1,23 @@
+# Node dependencies
+node_modules/
+
+# Build outputs
+dist/
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Environment variables
+*.env
+!.env.example
+
+# Logs
+logs/
+*.log
+
+# OS / Editor files
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea/
+
